@@ -18,7 +18,15 @@ To address this challenge, we were requested to develop a property matchmaking a
 
 ## Brainstorming Data
 
+::: raw
+<ClientOnly>
+  <div style="width:100%;overflow: scroll;margin-top:48px;">
+  
 ![alt text](brainstorm.svg)
+  
+  </div>
+</ClientOnly>
+:::
 
 ## Options
 
