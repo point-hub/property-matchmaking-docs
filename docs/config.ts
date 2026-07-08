@@ -95,7 +95,7 @@ function sidebarDocs(): DefaultTheme.SidebarItem[] {
             { text: 'Schema', link: '/matchmaking/schema/' },
             { text: 'Homepage', link: '/matchmaking/homepage/' },
             { text: 'Property Preferences', link: '/matchmaking/property-preferences/' },
-            { text: 'Contact Agency', link: '/matchmaking/contact-agency/' },
+            { text: 'Contact Agent', link: '/matchmaking/contact-agent/' },
           ],
         },
         { 
@@ -107,7 +107,7 @@ function sidebarDocs(): DefaultTheme.SidebarItem[] {
             { text: 'Receive', link: '/invoices/receive/' },
             { text: 'List', link: '/invoices/list/' },
             { text: 'Read', link: '/invoices/read/' },
-            { text: 'Confirm Payment', link: '/invoices/confirm-payment/' },
+            { text: 'Payment Confirmation', link: '/invoices/payment-confirmation/' },
           ],
         },
       ],
