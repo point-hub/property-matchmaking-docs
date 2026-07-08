@@ -50,23 +50,20 @@ June 2026
 | [2.2. Update Email](/my-account/update-email/)             | Allows users to update their email address.                                                  |
 | [2.3. Update Password](/my-account/update-password/)       | Enables users to change their account password.                                              |
 | [3. Properties](/properties/about/) | Manage property listings available on the platform. |
-| [3.1. Schema](/properties/schema/) | Defines the data structure used for property information. |
-| [3.2. Create](/properties/create/) | Allows users to create a new property listing. |
-| [3.3. List](/properties/list/) | Displays all available property listings with filtering and sorting options. |
-| [3.4. Read](/properties/read/) | Displays detailed information about a specific property. |
-| [3.5. Update](/properties/update/) | Allows users to modify an existing property listing. |
-| [3.6. Delete](/properties/delete/) | Allows users to permanently remove a property listing. |
+| [3.1. Create](/properties/create/) | Allows users to create a new property listing. |
+| [3.2. List](/properties/list/) | Displays all available property listings with filtering and sorting options. |
+| [3.3. Read](/properties/read/) | Displays detailed information about a specific property. |
+| [3.4. Update](/properties/update/) | Allows users to modify an existing property listing. |
+| [3.5. Delete](/properties/delete/) | Allows users to permanently remove a property listing. |
 | [4. Matchmaking](/matchmaking/about/) | Helps users discover properties that match their preferences. |
-| [4.1. Schema](/matchmaking/schema/) | Defines the data structure used for property recommendations and preferences. |
-| [4.2. Homepage](/matchmaking/homepage/) | Displays personalized property recommendations for users. |
-| [4.3. Property Preferences](/matchmaking/property-preferences/) | Allows users to configure their preferred property criteria. |
-| [4.4. Contact Agency](/matchmaking/contact-agency/) | Enables users to contact the property agency regarding a recommended property. |
+| [4.1. Homepage](/matchmaking/homepage/) | Displays personalized property recommendations for users. |
+| [4.2. Property Preferences](/matchmaking/property-preferences/) | Allows users to configure their preferred property criteria. |
+| [4.3. Contact Agency](/matchmaking/contact-agency/) | Enables users to contact the property agency regarding a recommended property. |
 | [5. Invoices](/invoices/about/) | Manage invoices and payment confirmation for transactions. |
-| [5.1. Schema](/invoices/schema/) | Defines the data structure used for invoices and payments. |
-| [5.2. Receive](/invoices/receive/) | Displays newly issued invoices for the user. |
-| [5.3. List](/invoices/list/) | Displays all invoices with filtering and sorting options. |
-| [5.4. Read](/invoices/read/) | Displays detailed information for a specific invoice. |
-| [5.5. Confirm Payment](/invoices/confirm-payment/) | Allows users to submit or confirm payment for an invoice. |
+| [5.1. Create](/invoices/create/) | Issued invoices for the user from action "buy property". |
+| [5.2. List](/invoices/list/) | Displays all invoices with filtering and sorting options. |
+| [5.3. Read](/invoices/read/) | Displays detailed information for a specific invoice. |
+| [5.4. Payment Confirmation](/invoices/payment-confirmation/) | Allows users to submit or confirm payment for an invoice. |
 
 ## Sitemap
 
