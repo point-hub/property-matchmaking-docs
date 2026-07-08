@@ -48,16 +48,74 @@ function sidebarDocs(): DefaultTheme.SidebarItem[] {
     {
       text: 'Features',
       items: [
-        { text: '...', link: '/' },
-        { text: '...', link: '/' },
-        { text: '...', link: '/' },
+        { 
+          text: 'Auth', 
+          collapsed: true,
+          items: [
+            { text: 'About', link: '/auth/about/' },
+            { text: 'Schema', link: '/auth/schema/' },
+            { text: 'Signup', link: '/auth/signup/' },
+            { text: 'Verify Email', link: '/auth/verify-email/' },
+            { text: 'Signin', link: '/auth/signin/' },
+            { text: 'Signout', link: '/auth/signout/' },
+            { text: 'Forgot Password', link: '/auth/forgot-password/' },
+            { text: 'Reset Password', link: '/auth/reset-password/' },
+          ],
+        },
+        { 
+          text: 'My Account', 
+          collapsed: true,
+          items: [
+            { text: 'About', link: '/my-account/about/' },
+            { text: 'Schema', link: '/my-account/schema/' },
+            { text: 'Update Username', link: '/my-account/update-username/' },
+            { text: 'Update Email', link: '/my-account/update-email/' },
+            { text: 'Update Password', link: '/my-account/update-password/' },
+          ],
+        },
+        { 
+          text: 'Properties', 
+          collapsed: true,
+          items: [
+            { text: 'About', link: '/properties/about/' },
+            { text: 'Schema', link: '/properties/schema/' },
+            { text: 'Create', link: '/properties/create/' },
+            { text: 'List', link: '/properties/list/' },
+            { text: 'Read', link: '/properties/read/' },
+            { text: 'Update', link: '/properties/update/' },
+            { text: 'Delete', link: '/properties/delete/' },
+          ],
+        },
+        { 
+          text: 'Matchmaking', 
+          collapsed: true,
+          items: [
+            { text: 'About', link: '/matchmaking/about/' },
+            { text: 'Schema', link: '/matchmaking/schema/' },
+            { text: 'Homepage', link: '/matchmaking/homepage/' },
+            { text: 'Property Preferences', link: '/matchmaking/property-preferences/' },
+            { text: 'Contact Agency', link: '/matchmaking/contact-agency/' },
+          ],
+        },
+        { 
+          text: 'Invoices', 
+          collapsed: true,
+          items: [
+            { text: 'About', link: '/invoices/about/' },
+            { text: 'Schema', link: '/invoices/schema/' },
+            { text: 'Receive', link: '/invoices/receive/' },
+            { text: 'List', link: '/invoices/list/' },
+            { text: 'Read', link: '/invoices/read/' },
+            { text: 'Confirm Payment', link: '/invoices/confirm-payment/' },
+          ],
+        },
       ],
     },
     {
       text: 'Resources',
       items: [
         { text: 'Architecture Decision Records', link: '/architecture-decision-records/' },
-        { text: 'Development Roadmap', link: '/development-roadmap/' },
+        { text: 'Development Plan', link: '/development-plan/' },
         { text: 'Developer Resources', link: '/developer-resources/' },
       ],
     },
