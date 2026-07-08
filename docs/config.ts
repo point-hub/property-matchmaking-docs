@@ -7,6 +7,7 @@ export default withMermaid({
   title: 'Property Matchmaking',
   description: 'Documentation for the Property Matchmaking project',
   cleanUrls: true,
+  ignoreDeadLinks: true,
   srcDir: './src',
   head: [
     ['link', { rel: 'icon', type: 'image/png', href: '/favicon-32x32.png' }],
