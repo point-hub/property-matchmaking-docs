@@ -16,7 +16,7 @@ Currently, the sales process is still handled manually, where sales staff need t
 
 To address this challenge, we were requested to develop a property matchmaking application that can automatically analyze customer criteria and generate a compatibility percentage score for each property. The goal is to help the sales team provide faster, more accurate, and more personalized property recommendations to customers.”
 
-## Brainstorming Data
+## Flow
 
 ::: raw
 <ClientOnly>
@@ -28,9 +28,9 @@ To address this challenge, we were requested to develop a property matchmaking a
 </ClientOnly>
 :::
 
-## Options
+## Decision
 
-### 1. Create a small MVP project and improve later
+Create a small MVP project and improve later
 
 **Business Flow:**
 
@@ -80,9 +80,6 @@ To address this challenge, we were requested to develop a property matchmaking a
 
 10. Closing process
     - Customer closes transactions on platform to get special price
-
-## Decision
-Choose Option 1. Create a small MVP project and improve later
 
 ## Reasoning
 
