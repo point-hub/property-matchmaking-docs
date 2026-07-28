@@ -27,7 +27,7 @@ Using this information, the system evaluates available properties and generates 
 <ClientOnly>
   <div style="width:100%;overflow: scroll;margin-top:48px;">
   
-![alt text](brainstorm-17072026.webp)
+![alt text](brainstorm-20072026.webp)
 
   </div>
 </ClientOnly>
@@ -70,6 +70,23 @@ Discussed the overall user journey for collecting customer preferences before re
 ### 17 July 2026
 
 Finalized the user flow by simplifying the customer journey to better align with the current business process. Unnecessary steps were removed, and the flow was streamlined to improve the user experience while remaining consistent with existing business operations.
+
+<ClientOnly>
+  <div style="width:100%;overflow: scroll;margin-top:48px;">
+  
+![alt text](brainstorm-17072026.webp)
+
+  </div>
+</ClientOnly>
+
+| Participants | Roles |
+| --- | --- | 
+| Martien | Product Coordinator |
+| Kartika | Customer |
+
+### 20 July 2026
+
+Changed the flow so that users no longer receive property recommendations immediately. Instead, users send a WhatsApp message, and the KAHU agent will send them a link to their personalized property recommendations.
 
 | Participants | Roles |
 | --- | --- | 

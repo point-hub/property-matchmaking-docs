@@ -26,6 +26,8 @@ A clean, minimal interface focused on readability, straightforward navigation, a
 
 ## Decision
 
+2. Simple and Easy-to-Use Design
+
 ## Reasoning
 
 A simple interface lowers the learning curve for users who are less familiar with technology. By reducing visual complexity, users can focus on answering the questionnaire instead of figuring out how to use the application.
