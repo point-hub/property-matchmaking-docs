@@ -4,7 +4,7 @@ aside: false
 
 # Scenario 1.7.2. List Properties
 
-## 1.7.2.S1. User can view paginated properties data.
+## 1.7.2.S3. User can view filtered status inactive properties data.
 
 - `GIVEN` user already logged in
 - `AND` user visit home page

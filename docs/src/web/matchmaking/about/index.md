@@ -4,5 +4,5 @@ The Matchmaking module helps connect customers with the most suitable properties
 
 ## Features
 
-- [Send Customer Preferences](/matchmaking/send-customer-preferences/)
-- [Receive Property Recommendations](/matchmaking/receive-property-recommendations)
+- [Send Customer Preferences](/web/matchmaking/send-customer-preferences/)
+- [Receive Property Recommendations](/web/matchmaking/receive-property-recommendations/)

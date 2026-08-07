@@ -108,12 +108,12 @@ June 2026
 
 | Feature | Description |
 | ------- | ----------- |
-| [2. Web](/web/about) | Features available to customers and visitors. | 
+| [2. Web](/web/about/) | Features available to customers and visitors. | 
 
 | Feature | Description |
 | ------- | ----------- |
 | [2.1. Matchmaking](/web/matchmaking/about/) | Helps users discover properties that match their preferences. |
-| [2.1.1. Send Customer Preferences](/web/matchmaking/send-property-preferences/) | Allows users to complete a questionnaire about their preferred property criteria to receive the best property recommendations. |
+| [2.1.1. Send Customer Preferences](/web/matchmaking/send-customer-preferences/) | Allows users to complete a questionnaire about their preferred property criteria to receive the best property recommendations. |
 | [2.1.2. Receive Property Recommendations](/web/matchmaking/receive-property-recommendations/) | Displays personalized property recommendations for users. |
 
 ## Sitemap
@@ -329,16 +329,16 @@ June 2026
 | ---- |
 | [1.4.3.F1. Read facility fails when user is not authenticated.](/admin/facilities/read/scenarios/f1/) |
 
-##### 1.s4.4. Update Facility
+##### 1.4.4. Update Facility
 
-| 1.s4.4.S Success Scenarios |
+| 1.4.4.S Success Scenarios |
 | ---- |
-| [1.s4.4.S1. User can update facility successfully.](/admin/facilities/update/scenarios/s1/) |
+| [1.4.4.S1. User can update facility successfully.](/admin/facilities/update/scenarios/s1/) |
 
-| 1.s4.4.F Failed Scenarios |
+| 1.4.4.F Failed Scenarios |
 | ---- |
-| [1.s4.4.F1. Update facility fails when user is not authenticated.](/admin/facilities/update/scenarios/f1/) |
-| [1.s4.4.F2. Update facility fails when required fields are empty.](/admin/facilities/update/scenarios/f2/) |
+| [1.4.4.F1. Update facility fails when user is not authenticated.](/admin/facilities/update/scenarios/f1/) |
+| [1.4.4.F2. Update facility fails when required fields are empty.](/admin/facilities/update/scenarios/f2/) |
 
 ##### 1.4.5. Delete Facility
 
