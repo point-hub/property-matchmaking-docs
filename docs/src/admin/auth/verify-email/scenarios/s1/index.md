@@ -19,7 +19,7 @@ const users = [
       is_verified: false,
       requested_at: "2026-03-09T00:00:42.734Z",
       code: "ae59ee4b-3221-4cbe-8fd5-144fa126a102",
-      url: "https://simple-accounting.pointhub.app/verify-email"
+      url: "https://kawanhunian.com/admin/verify-email"
     },
     created_at: "2026-03-09T00:00:43.411Z",
     trimmed_email: "johndoe@example.com",
@@ -54,7 +54,7 @@ const users = [
       is_verified: false,
       requested_at: "2026-03-09T00:00:42.734Z",
       code: "ae59ee4b-3221-4cbe-8fd5-144fa126a102",
-      url: "https://simple-accounting.pointhub.app/verify-email"
+      url: "https://kawanhunian.com/admin/verify-email"
     },
     ...
   }

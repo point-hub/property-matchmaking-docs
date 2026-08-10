@@ -27,7 +27,7 @@ Using this information, the system evaluates available properties and generates 
 <ClientOnly>
   <div style="width:100%;overflow: scroll;margin-top:48px;">
   
-![alt text](brainstorm-20072026.webp)
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/adr/002/brainstorm-20072026.webp)
 
   </div>
 </ClientOnly>
@@ -57,7 +57,7 @@ Discussed the overall user journey for collecting customer preferences before re
 <ClientOnly>
   <div style="width:100%;overflow: scroll;margin-top:48px;">
   
-![alt text](brainstorm-13072026.webp)
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/adr/002/brainstorm-13072026.webp)
 
   </div>
 </ClientOnly>
@@ -74,7 +74,7 @@ Finalized the user flow by simplifying the customer journey to better align with
 <ClientOnly>
   <div style="width:100%;overflow: scroll;margin-top:48px;">
   
-![alt text](brainstorm-17072026.webp)
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/adr/002/brainstorm-17072026.webp)
 
   </div>
 </ClientOnly>

@@ -1,5 +1,31 @@
+---
+aside: false
+---
+
 # Schema
 
-Explains how data is organized and what kind of data can be stored in the system. It helps keep data clear, consistent, and easy to use.
+This section describes the database structure and the relationships between collections. The schema consists of master data collections and transactional or operational collections used by the application.
 
-- [Users Schema](https://apidocs.simple-accounting.pointhub.app/users-13209321d0)
+- [Users Schema](https://kawanhunian.apidog.io/users-16945732d0)
+
+## Relationship
+
+- [Certificates Schema](https://kawanhunian.apidog.io/certificates-16945687d0)
+- [Facilities Schema](https://kawanhunian.apidog.io/facilities-16945717d0)
+- [Problems Schema](https://kawanhunian.apidog.io/problems-16945718d0)
+- [Promos Schema](https://kawanhunian.apidog.io/promos-16945719d0)
+- [Properties Schema](https://kawanhunian.apidog.io/properties-16383951d0)
+
+## ERD
+
+The ERD describes the physical structure of the MongoDB collections, including the fields stored in each collection and their direct data relationships.
+
+<script setup>
+import ErdUsers from './erd-users.vue'
+</script>
+
+<ClientOnly>
+  <div style="width:100%;overflow: scroll;margin-top:48px;background: white"> 
+    <ErdUsers />
+  </div>
+</ClientOnly>

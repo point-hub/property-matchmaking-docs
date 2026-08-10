@@ -50,7 +50,7 @@ Please click the button below to confirm:
 
 Verify Email
 
-If the button is not working, please copy and paste this URL into your browser: https://simple-accounting.pointhub.app/verify-email?code=f35157cb-7b0d-4dfd-9671-e4b72abf8dff
+If the button is not working, please copy and paste this URL into your browser: https://kawanhunian.com/admin/verify-email?code=f35157cb-7b0d-4dfd-9671-e4b72abf8dff
 
 Best Regards,
 
