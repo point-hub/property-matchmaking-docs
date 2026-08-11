@@ -44,7 +44,7 @@ aside: false
 
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/web/matchmaking/send-customer-preferences/scenarios/s1/3.filled-continue.png){.shadow-img}
 
-- `THEN` user redirected to page "Kendala"
+- `THEN` user redirected to page "Kendala anda saat ini"
 - `WHEN` user checks the "Penghasilan terbatas" checkbox
 
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/web/matchmaking/send-customer-preferences/scenarios/s1/4.buying-problem.png){.shadow-img}
@@ -63,7 +63,7 @@ aside: false
 
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/web/matchmaking/send-customer-preferences/scenarios/s1/5.continue.png){.shadow-img}
 
-- `THEN` user redirected to page "Informasi Kontak"
+- `THEN` user redirected to page "Informasi Kontak Anda"
 - `WHEN` user type "John" into input name
 - `WHEN` user type "0812345678" into input nomer WhatsApp
 

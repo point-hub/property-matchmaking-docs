@@ -44,7 +44,7 @@ aside: false
 
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/web/matchmaking/send-customer-preferences/scenarios/s1/3.filled-continue.png){.shadow-img}
 
-- `THEN` user redirected to page "Kendala"
+- `THEN` user redirected to page "Kendala anda saat ini"
 - `WHEN` user checks the "Penghasilan terbatas" checkbox
 
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/web/matchmaking/send-customer-preferences/scenarios/s1/4.buying-problem.png){.shadow-img}
@@ -63,7 +63,7 @@ aside: false
 
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/web/matchmaking/send-customer-preferences/scenarios/s1/5.continue.png){.shadow-img}
 
-- `THEN` user redirected to page "Informasi Kontak"
+- `THEN` user redirected to page "Informasi Kontak Anda"
 - `WHEN` user type "John" into input name
 - `WHEN` user type "0812345678" into input nomer WhatsApp
 
@@ -76,4 +76,4 @@ aside: false
 - `THEN` user redirected to https://web.whatsapp.com/ website to send message to Kawan Hunian WhatsApp number
 - `AND` system will send email to Kawan Hunian email about property recommendations link that match user preferences
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/web/matchmaking/receive-property-recommendations/scenarios/s1/email.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/web/matchmaking/send-customer-preferences/scenarios/s1/email-finance-payment.png){.shadow-img}
