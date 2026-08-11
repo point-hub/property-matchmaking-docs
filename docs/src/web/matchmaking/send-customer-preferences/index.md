@@ -5,7 +5,8 @@ This feature allows customers to submit their property preferences, including th
 ## Scenarios
 
 - **Success Scenarios**
-  - [2.1.1.S1. User can send their preferences successfully.](/web/matchmaking/send-customer-preferences/scenarios/s1/)
+  - [2.1.1.S1. User can send their preferences with financing successfully.](/web/matchmaking/send-customer-preferences/scenarios/s1/)
+  - [2.1.1.S2. User can send their preferences with cash payment successfully.](/web/matchmaking/send-customer-preferences/scenarios/s2/)
 - **Failure Scenarios**
   - [2.1.1.F1. Send preferences fails when the location fields are empty.](/web/matchmaking/send-customer-preferences/scenarios/f1/)
   - [2.1.1.F2. Send preferences fails when the cash budget fields are empty.](/web/matchmaking/send-customer-preferences/scenarios/f2/)

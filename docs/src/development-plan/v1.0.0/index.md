@@ -533,7 +533,8 @@ June 2026
 
 | 2.1.1.S Success Scenarios |
 | ---- |
-| [2.1.1.S1. User can send their preferences successfully.](/web/matchmaking/send-customer-preferences/scenarios/s1/) |
+| [2.1.1.S1. User can send their preferences with financing successfully.](/web/matchmaking/send-customer-preferences/scenarios/s1/) |
+| [2.1.1.S2. User can send their preferences with cash payment successfully.](/web/matchmaking/send-customer-preferences/scenarios/s2/) |
 
 | 2.1.1.F Failed Scenarios |
 | ---- |

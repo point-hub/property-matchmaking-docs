@@ -4,7 +4,7 @@ aside: false
 
 # Scenario 2.1.1. Send Customer Preferences
 
-## 2.1.1.S1. User can send their preferences with financing successfully.
+## 2.1.1.S1. User can send their preferences with cash payment successfully.
 
 - `GIVEN` user already logged in
 - `AND` user visit page home
@@ -28,21 +28,18 @@ aside: false
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/web/matchmaking/send-customer-preferences/scenarios/s1/2.continue.png){.shadow-img}
 
 - `THEN` user redirected to page "Informasi Budget"
+
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/web/matchmaking/send-customer-preferences/scenarios/s2/page-budget.png){.shadow-img}
+
 - `WHEN` user type "200,000,000" into input minimal anggaran
 - `AND` user type "300,000,000" into input maksimal anggaran
-- `AND` user type "0" into input minimal uang muka (dp)
-- `AND` user type "20,000,000" into input maksimal uang muka (dp)
-- `AND` user type "1,000,000" into input minimal cicilan bulanan
-- `AND` user type "3,000,000" into input maksimal cicilan bulanan
-- `AND` user type "35" into input usia
-- `AND` user choose "Menikah" into checkbox status pernikahan
-- `AND` user type "2" into input jumlah tanggungan
+- `AND` user checks "Saya ingin membeli secara tunai" checkbox
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/web/matchmaking/send-customer-preferences/scenarios/s1/3.form.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/web/matchmaking/send-customer-preferences/scenarios/s2/fill-budget.png){.shadow-img}
 
 - `WHEN` user click continue button
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/web/matchmaking/send-customer-preferences/scenarios/s1/3.filled-continue.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/web/matchmaking/send-customer-preferences/scenarios/s2/continue.png){.shadow-img}
 
 - `THEN` user redirected to page "Kendala"
 - `WHEN` user checks the "Penghasilan terbatas" checkbox
