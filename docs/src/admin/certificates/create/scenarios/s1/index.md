@@ -18,7 +18,7 @@ aside: false
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/certificates/scenarios/s1/2.certificates-create-button.png){.shadow-img}
 
 - `THEN` user redirected to page "create certificate"
-- `WHEN` user input "SHM" into column name
+- `WHEN` user enters "SHM" in the name field
 
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/certificates/scenarios/s1/3.fill-form.png){.shadow-img}
 
