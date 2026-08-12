@@ -22,6 +22,10 @@ aside: false
 
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/certificates/scenarios/f2/5.button-save.png){.shadow-img}
 
-- `THEN` user view error message "The name field is required"
+- `THEN` user view error message "The code field is required"
+- `AND` user view error message "The property name field is required"
+- `AND` user view error message "The address field is required"
+- `AND` user view error message "The google map link field is required"
+- `AND` user view error message "The instagram field is required"
 
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/certificates/scenarios/f2/6.error.png){.shadow-img}

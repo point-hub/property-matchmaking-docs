@@ -18,9 +18,33 @@ aside: false
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/certificates/scenarios/s1/3.button-create.png){.shadow-img}
 
 - `THEN` user redirected to page "create property"
-- `WHEN` user input "SHM" into column name
+- `WHEN` user enters "A001" in the code field
+- `AND` user enters "Property ABC" in the property name field
+- `AND` user enters "Jl Musi" in the address field
+- `AND` user enters "https://www.google.com/maps/@-7.2778031,112.7271303,15z?entry=ttu&g_ep=EgoyMDI2MDgwOS4wIKXMDSoASAFQAw%3D%3D" in the google maps link field
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/certificates/scenarios/s1/4.form-input.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/certificates/scenarios/s1/4.form-enters.png){.shadow-img}
+
+- `WHEN` user enters "64" in the land area field
+- `AND` user enters "32" in the building area field
+- `AND` user enters "300,000,000" in the price field
+- `AND` user click add button
+
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/certificates/scenarios/s1/4.form-enters.png){.shadow-img}
+
+- `WHEN` user checks "Certificate 1" in the certificates box
+- `AND` user checks "Facilities 1" in the facilities box
+- `AND` user checks "Promos 1" in the promos box
+
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/certificates/scenarios/s1/4.form-enters.png){.shadow-img}
+
+- `WHEN` user upload "Photo 1" in the property gate photos
+
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/certificates/scenarios/s1/4.form-enters.png){.shadow-img}
+
+- `WHEN` user upload "Photo 2" in the property photos
+
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/certificates/scenarios/s1/4.form-enters.png){.shadow-img}
 
 - `WHEN` user click button save
 
@@ -30,7 +54,3 @@ aside: false
 - `AND` user view notification "Create success"
 
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/certificates/scenarios/s1/6.notification.png){.shadow-img}
-
-- `THEN` user view "SHM" in list property
-
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/certificates/scenarios/s1/7.list.png){.shadow-img}
