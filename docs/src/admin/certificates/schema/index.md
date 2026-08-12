@@ -28,11 +28,11 @@ The master collections provide standardized values, while `customer_preferences`
 The ERD describes the physical structure of the MongoDB collections, including the fields stored in each collection and their direct data relationships.
 
 <script setup>
-import ErdCertificates from './erd-certificates.vue'
+import Erd from './erd.vue'
 </script>
 
 <ClientOnly>
   <div style="width:100%;overflow: scroll;margin-top:48px;background: white"> 
-    <ErdCertificates />
+    <Erd />
   </div>
 </ClientOnly>

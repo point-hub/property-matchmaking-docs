@@ -2,16 +2,25 @@
 aside: false
 ---
 
-# Scenario 3.2. List Promos
+# Scenario 1.3.2. List Promos
 
-## 3.2.S1. User can view paginated promos data.
+## 1.3.2.S1. User can view paginated promos data.
 
 - `GIVEN` user already logged in
 - `AND` user visit home page
 - `WHEN` user click menu "promos"
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/certificates/scenarios/s1/2.menu-certificate.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/promos/scenarios/s1/1.menu.png){.shadow-img}
 
 - `THEN` user redirected to page "list promo"
+- `AND` user can see list of promos
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/certificates/scenarios/s1/7.list.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/promos/list/s1/data.png){.shadow-img}
+
+- `THEN` user can see pagination summary "Showing 1 to 10 of 15 entries"
+
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/promos/list/s1/page-info.png){.shadow-img}
+
+- `THEN` user can see pagination controls button
+
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/promos/list/s1/pagination.png){.shadow-img}

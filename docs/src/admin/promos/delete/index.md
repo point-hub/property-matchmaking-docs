@@ -5,7 +5,7 @@ Allows users to permanently remove a promo that is no longer required or was cre
 ## Scenarios
 
 - **Success Scenarios**
-  - [1.6.5.S1. User can delete promo successfully.](/admin/promos/delete/scenarios/s1/)
+  - [1.3.5.S1. User can delete promo successfully.](/admin/promos/delete/scenarios/s1/)
 - **Failure Scenarios**
-  - [1.6.5.F1. Delete promo fails when user is not authenticated.](/admin/promos/delete/scenarios/f1/)
+  - [1.3.5.F1. Delete promo fails when user is not authenticated.](/admin/promos/delete/scenarios/f1/)
   

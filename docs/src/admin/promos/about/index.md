@@ -1,6 +1,6 @@
 # Promos
 
-Manage promotional programs, incentives, and special offers that can be recommended to customers based on their preferences, financial condition, or purchasing needs. These promotions help increase customer interest and support the property sales process.
+Manage property promos and related legal documents available on the platform. Administrators can create, view, update, and delete promo records to ensure that each property has complete and accurate ownership documentation.
 
 ## Features
 

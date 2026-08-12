@@ -1,6 +1,6 @@
 # Facilities
 
-Manage the facilities and amenities that can be associated with properties on the platform. These facilities are used to describe the features and surrounding infrastructure of a property, helping customers better evaluate and compare available properties.
+Manage property facilities and related legal documents available on the platform. Administrators can create, view, update, and delete facility records to ensure that each property has complete and accurate ownership documentation.
 
 ## Features
 

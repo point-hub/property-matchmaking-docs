@@ -1,6 +1,6 @@
 # Problems
 
-Manage the common buying problems and challenges that customers may experience during the property purchasing process, such as financing constraints, insufficient down payment, or credit history issues. This information is used to better understand customer needs and improve the quality of property recommendations.
+Manage property problems and related legal documents available on the platform. Administrators can create, view, update, and delete problem records to ensure that each property has complete and accurate ownership documentation.
 
 ## Features
 

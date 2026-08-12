@@ -12,7 +12,6 @@ This section describes the database structure and the relationships between coll
 
 - [Users Schema](https://kawanhunian.apidog.io/users-16945732d0)
 
-
 ## Logical Relationship
 
 The master data has a logical relationship with the `customer_preferences` and `properties` collections. Instead of storing the master data `_id`, these collections store the master data name.
