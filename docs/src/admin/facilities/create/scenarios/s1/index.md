@@ -10,27 +10,27 @@ aside: false
 - `AND` user visit home page
 - `WHEN` user click menu "facilities"
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/facilities/scenarios/s1/1.menu.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/facilities/create/s1/menu.jpg){.shadow-img}
 
-- `THEN` user redirected to page "list facility"
+- `THEN` user redirected to page "list facilities"
 - `WHEN` user click button "create"
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/facilities/scenarios/s1/2.facilities-create-button.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/facilities/create/s1/create-button.jpg){.shadow-img}
 
 - `THEN` user redirected to page "create facility"
-- `WHEN` user enters "SHM" in the name field
+- `WHEN` user enters "Mini Market" in the name field
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/facilities/scenarios/s1/3.fill-form.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/facilities/create/s1/form.jpg){.shadow-img}
 
 - `WHEN` user click button save
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/facilities/scenarios/s1/4.save-button.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/facilities/create/s1/save-button.jpg){.shadow-img}
 
-- `THEN` user redirected to page "list facility"
+- `THEN` user redirected to page "list facilities"
 - `AND` user view notification "Create success"
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/facilities/scenarios/s1/5.notification.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/facilities/create/s1/create-success-notification.jpg){.shadow-img}
 
-- `THEN` user view "SHM" in list facility
+- `THEN` user view "Mini Market" in list facilities
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/facilities/scenarios/s1/5.success.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/facilities/create/s1/data.jpg){.shadow-img}

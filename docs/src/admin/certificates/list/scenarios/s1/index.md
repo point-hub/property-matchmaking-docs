@@ -12,7 +12,7 @@ aside: false
 
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/certificates/scenarios/s1/1.menu.png){.shadow-img}
 
-- `THEN` user redirected to page "list certificate"
+- `THEN` user redirected to page "list certificates"
 - `AND` user can see list of certificates
 
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/certificates/list/s1/data.png){.shadow-img}

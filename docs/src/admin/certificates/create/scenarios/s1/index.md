@@ -12,7 +12,7 @@ aside: false
 
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/certificates/scenarios/s1/1.menu.png){.shadow-img}
 
-- `THEN` user redirected to page "list certificate"
+- `THEN` user redirected to page "list certificates"
 - `WHEN` user click button "create"
 
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/certificates/scenarios/s1/2.certificates-create-button.png){.shadow-img}
@@ -26,11 +26,11 @@ aside: false
 
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/certificates/scenarios/s1/4.save-button.png){.shadow-img}
 
-- `THEN` user redirected to page "list certificate"
+- `THEN` user redirected to page "list certificates"
 - `AND` user view notification "Create success"
 
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/certificates/scenarios/s1/5.notification.png){.shadow-img}
 
-- `THEN` user view "SHM" in list certificate
+- `THEN` user view "SHM" in list certificates
 
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/certificates/scenarios/s1/5.success.png){.shadow-img}
