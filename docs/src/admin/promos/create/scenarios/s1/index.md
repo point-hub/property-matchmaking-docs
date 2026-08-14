@@ -10,29 +10,29 @@ aside: false
 - `AND` user visit home page
 - `WHEN` user click menu "promos"
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/promos/scenarios/s1/1.menu.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/promos/create/s1/menu.jpg){.shadow-img}
 
-- `THEN` user redirected to page "list promo"
+- `THEN` user redirected to page "list promos"
 - `WHEN` user click button "create"
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/promos/scenarios/s1/2.promos-create-button.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/promos/create/s1/create-button.jpg){.shadow-img}
 
 - `THEN` user redirected to page "create promo"
-- `WHEN` user enters "Penghasilan terbatas" in the name field
-- `AND` user enters "Cari rumah dengan cicilan lebih terjangkau." in the description field
+- `WHEN` user enters "Promo 1" in the name field
+- `AND` user enters "Description for Promo 1" in the description field
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/promos/scenarios/s1/3.fill-form.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/promos/create/s1/form.jpg){.shadow-img}
 
 - `WHEN` user click button save
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/promos/scenarios/s1/4.save-button.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/promos/create/s1/save-button.jpg){.shadow-img}
 
-- `THEN` user redirected to page "list promo"
+- `THEN` user redirected to page "list promos"
 - `AND` user view notification "Create success"
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/promos/scenarios/s1/5.notification.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/promos/create/s1/create-success.jpg){.shadow-img}
 
-- `THEN` user view "Penghasilan terbatas" in list promo name
-- `AND` user view "Cari rumah dengan cicilan lebih terjangkau." in list promo description
+- `THEN` user view "Promo 1" in the name column of list promos
+- `AND` user view "Description for Promo 1" in the description column of list promos
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/promos/scenarios/s1/5.success.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/promos/create/s1/data.jpg){.shadow-img}

@@ -34,5 +34,6 @@ aside: false
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/problems/update/f2/update-button.jpg){.shadow-img}
 
 - `THEN` user see error message "The name field is required."
+- `AND` user see error message "The description field is required."
 
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/problems/update/f2/error.jpg){.shadow-img}
