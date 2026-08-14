@@ -6,7 +6,7 @@ aside: false
 
 This section describes the database structure and the relationships between collections. The schema consists of master data collections and transactional or operational collections used by the application.
 
-- [Problems Schema](https://kawanhunian.apidog.io/problems-16945718d0)
+- [Problems Schema](https://kawanhunian.apidog.io/problems-16945717d0)
 
 ## Relationship
 

@@ -10,14 +10,14 @@ aside: false
 - `AND` user visit home page
 - `WHEN` user click menu "problems"
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/problems/scenarios/s1/1.menu.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/problems/create/s1/menu.jpg){.shadow-img}
 
-- `THEN` user redirected to page "list problem"
+- `THEN` user redirected to page "list problems"
 - `AND` user can see list of problems
 - `WHEN` user click "Problem 1" data
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/problems/read/list.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/problems/read/s1/list.jpg){.shadow-img}
 
 - `THEN` user redirected to page "problem details"
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/problems/read/detail.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/problems/read/s1/data.jpg){.shadow-img}

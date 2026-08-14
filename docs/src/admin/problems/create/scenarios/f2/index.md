@@ -10,22 +10,18 @@ aside: false
 - `AND` user visit home page
 - `WHEN` user click menu "problems"
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/problems/scenarios/s1/1.menu.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/problems/create/s1/menu.jpg){.shadow-img}
 
-- `THEN` user redirected to page "list problem"
+- `THEN` user redirected to page "list problems"
 - `WHEN` user click button "create"
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/problems/scenarios/s1/2.problems-create-button.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/problems/create/s1/create-button.jpg){.shadow-img}
 
 - `THEN` user redirected to page "create problem"
-
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/problems/scenarios/s1/3.fill-form.png){.shadow-img}
-
 - `WHEN` user click button save
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/problems/scenarios/f2/save-error.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/problems/create/f2/save-button.jpg){.shadow-img}
 
 - `THEN` user see error message "The name field is required."
-- `AND` user see error message "The description field is required."
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/problems/scenarios/f2/error-message.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/problems/create/f2/error.jpg){.shadow-img}

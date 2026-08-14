@@ -1,6 +1,6 @@
 # Problems
 
-Manage property problems and related legal documents available on the platform. Administrators can create, view, update, and delete problem records to ensure that each property has complete and accurate ownership documentation.
+Identify the challenges you are currently facing when buying a property, such as limited savings, insufficient income, difficulty obtaining financing, or an unfavorable credit history. This information helps the property consultant better understand your situation and provide suitable recommendations or assistance.
 
 ## Features
 
