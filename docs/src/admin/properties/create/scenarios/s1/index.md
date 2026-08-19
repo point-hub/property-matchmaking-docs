@@ -88,6 +88,11 @@ aside: false
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/properties/create/s1/save-button.jpg){.shadow-img}
 
 - `THEN` user redirected to page "list property"
-- `AND` user view notification "Create success"
+- `AND` user see "A001" in the code column of the table
+- `AND` user see "Property 1" in the name column of the table
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/properties/create/s1/form-9.jpg){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/properties/create/s1/list.jpg){.shadow-img}
+
+- `THEN` user view notification "Create success"
+
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/properties/create/s1/notification.jpg){.shadow-img}
