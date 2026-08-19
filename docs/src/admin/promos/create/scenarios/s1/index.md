@@ -30,7 +30,7 @@ aside: false
 - `THEN` user redirected to page "list promos"
 - `AND` user view notification "Create success"
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/promos/create/s1/create-success.jpg){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/promos/create/s1/create-success-notification.jpg){.shadow-img}
 
 - `THEN` user view "Promo 1" in the name column of list promos
 - `AND` user view "Description for Promo 1" in the description column of list promos
