@@ -64,11 +64,11 @@ aside: false
 - `WHEN` user type "John" into input name
 - `WHEN` user type "0812345678" into input nomer WhatsApp
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/web/matchmaking/send-customer-preferences/scenarios/s1/6.contact.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/web/matchmaking/send-customer-preferences/scenarios/s1/form-contact.jpg){.shadow-img}
 
-- `WHEN` user click continue to WhatsApp button
+- `WHEN` user click "Dapatkan hasil rekomendasi" button
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/web/matchmaking/send-customer-preferences/scenarios/s1/6.continue.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/web/matchmaking/send-customer-preferences/scenarios/s1/dapatkan-hasil-rekomendasi-button.jpg){.shadow-img}
 
 - `THEN` user redirected to https://web.whatsapp.com/ website to send message to Kawan Hunian WhatsApp number
 - `AND` system will send email to Kawan Hunian email about property recommendations link that match user preferences
