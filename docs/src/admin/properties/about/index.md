@@ -1,6 +1,6 @@
 # Properties
 
-Manage property listings available on the platform, including property details, location, pricing, facilities, certificates, promotional offers, and other relevant information. This data serves as the primary source for generating personalized property recommendations for customers.
+Manage property listings available on the platform, including property details, location, pricing, facilities, land titles, promotional offers, and other relevant information. This data serves as the primary source for generating personalized property recommendations for customers.
 
 ## Features
 

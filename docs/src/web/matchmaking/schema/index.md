@@ -16,7 +16,7 @@ This structure is used for property matchmaking, where the system compares the v
 
 The master collections provide standardized values, while `customer_preferences` and `properties` store these values for matchmaking.
 
-- [Certificates Schema](https://kawanhunian.apidog.io/certificates-16945687d0)
+- [Land Titles Schema](https://kawanhunian.apidog.io/land-titles-16945687d0)
 - [Facilities Schema](https://kawanhunian.apidog.io/facilities-16945717d0)
 - [Problems Schema](https://kawanhunian.apidog.io/problems-16945718d0)
 - [Promos Schema](https://kawanhunian.apidog.io/promos-16945719d0)

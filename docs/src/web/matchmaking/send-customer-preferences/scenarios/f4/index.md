@@ -66,5 +66,5 @@ aside: false
 - `THEN` user redirected to page "Informasi Kontak Anda"
 - `AND` user see "Dapatkan hasil rekomendasi" button is disabled
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/web/matchmaking/send-customer-preferences/scenarios/s1/error.jpg){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/web/matchmaking/send-customer-preferences/scenarios/f4/error.jpg){.shadow-img}
 

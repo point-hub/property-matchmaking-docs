@@ -10,8 +10,8 @@ aside: false
 - `AND` user visit home page
 - `WHEN` user click menu "properties"
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/certificates/scenarios/s1/2.menu-certificate.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/land-titles/scenarios/s1/2.menu-land title.png){.shadow-img}
 
 - `THEN` user redirected to page "list property"
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/certificates/scenarios/s1/7.list.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/land-titles/scenarios/s1/7.list.png){.shadow-img}

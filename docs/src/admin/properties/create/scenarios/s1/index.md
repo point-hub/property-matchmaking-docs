@@ -44,8 +44,8 @@ aside: false
 
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/properties/create/s1/form-2-table.jpg){.shadow-img}
 
-- `WHEN` user checks "Certificate 1" in the properties box
-- `AND` user checks "Certificate 2" in the properties box
+- `WHEN` user checks "Land Title 1" in the properties box
+- `AND` user checks "Land Title 2" in the properties box
 - `AND` user checks "Facilities 2" in the facilities box
 - `AND` user checks "Facilities 3" in the facilities box
 - `AND` user checks "Promos 3" in the promos box

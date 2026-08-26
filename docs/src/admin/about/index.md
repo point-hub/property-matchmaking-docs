@@ -8,7 +8,7 @@ The Administration section documents the internal features used to manage the pl
 | ------- | ----------- |
 | [1.1. Auth](/admin/auth/about/) | User authentication and access control features to secure the application. | 
 | [1.2. My Account](/admin/my-account/about/) | User profile management features to update personal information. | 
-| [1.3. Certificates](/admin/certificates/about/) | Manage certificates available on the platform. | 
+| [1.3. Land Titles](/admin/land-titles/about/) | Manage land titles available on the platform. | 
 | [1.4. Facilities](/admin/facilities/about/) | Manage facilities available on the platform. | 
 | [1.5. Problems](/admin/problems/about/) | Manage problems available on the platform. | 
 | [1.6. Promos](/admin/promos/about/) | Manage promos available on the platform. | 

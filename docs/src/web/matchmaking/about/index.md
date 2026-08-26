@@ -23,11 +23,11 @@ Each property in the `properties` collection contains information that can be us
 
 - Location
 - Price
-- Certificates
+- Land Titles
 - Facilities
 - Promos
 
-The values for `certificates`, `facilities`, `problems`, and `promos` come from the corresponding master data.
+The values for `land titles`, `facilities`, `problems`, and `promos` come from the corresponding master data.
 
 ### 3. Compare Preferences with Properties
 
@@ -40,12 +40,12 @@ The system compares the customer's preferences with each property's information
 
 The property matches the customer's selected `location` and `budget`. 
 
-The properties info like `certificates`, `facilities`, `problems`, and `promos` are not used as the primary property matching criteria. The agent can use this information to:
+The properties info like `land titles`, `facilities`, `problems`, and `promos` are not used as the primary property matching criteria. The agent can use this information to:
 
 - Understand the customer's requirements.
 - Discuss suitable property options.
 - Address the customer's buying problems.
-- Explain relevant facilities and certificates.
+- Explain relevant facilities and land titles.
 - Offer suitable promotions.
 - Support the negotiation process with the customer.
 

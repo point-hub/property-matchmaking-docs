@@ -63,12 +63,12 @@ June 2026
 
 | Feature | Description |
 | ------- | ----------- |
-| [1.3. Certificates](/admin/certificates/about/) | Manage certificates available on the platform. |
-| [1.3.1. Create Certificate](/admin/certificates/create/) | Allows users to create a new certificate. |
-| [1.3.2. List Certificates](/admin/certificates/list/) | Displays all available certificate listings with filtering and sorting options. |
-| [1.3.3. Read Certificate](/admin/certificates/read/) | Displays detailed information about a specific certificate. |
-| [1.3.4. Update Certificate](/admin/certificates/update/) | Allows users to modify an existing certificate listing. |
-| [1.3.5. Delete Certificate](/admin/certificates/delete/) | Allows users to permanently remove a certificate listing. |
+| [1.3. Land Titles](/admin/land-titles/about/) | Manage land titles available on the platform. |
+| [1.3.1. Create Land Title](/admin/land-titles/create/) | Allows users to create a new land title. |
+| [1.3.2. List Land Titles](/admin/land-titles/list/) | Displays all available land title listings with filtering and sorting options. |
+| [1.3.3. Read Land Title](/admin/land-titles/read/) | Displays detailed information about a specific land title. |
+| [1.3.4. Update Land Title](/admin/land-titles/update/) | Allows users to modify an existing land title listing. |
+| [1.3.5. Delete Land Title](/admin/land-titles/delete/) | Allows users to permanently remove a land title listing. |
 
 | Feature | Description |
 | ------- | ----------- |
@@ -238,61 +238,61 @@ June 2026
 | [1.2.3.F3. Password update fails when password is not strong enough.](/admin/my-account/update-password/scenarios/f3/) |
 | [1.2.3.F4. Password update fails when password confirmation does not match.](/admin/my-account/update-password/scenarios/f4/) |
 
-#### 1.3. Certificates
+#### 1.3. Land Titles
 
 ---
 
-##### 1.3.1. Create Certificate
+##### 1.3.1. Create Land Title
 
 | 1.3.1.S Success Scenarios |
 | ---- |
-| [1.3.1.S1. User can create certificate successfully.](/admin/certificates/create/scenarios/s1/) |
+| [1.3.1.S1. User can create land title successfully.](/admin/land-titles/create/scenarios/s1/) |
 
 | 1.3.1.F Failed Scenarios |
 | ---- |
-| [1.3.1.F1. Create certificate fails when user is not authenticated.](/admin/certificates/create/scenarios/f1/) |
-| [1.3.1.F2. Create certificate fails when required fields are empty.](/admin/certificates/create/scenarios/f2/) |
+| [1.3.1.F1. Create land title fails when user is not authenticated.](/admin/land-titles/create/scenarios/f1/) |
+| [1.3.1.F2. Create land title fails when required fields are empty.](/admin/land-titles/create/scenarios/f2/) |
 
-##### 1.3.2. List Certificates
+##### 1.3.2. List Land Titles
 
 | 1.3.2.S Success Scenarios |
 | ---- |
-| [1.3.2.S1. User can view paginated certificates data.](/admin/certificates/list/scenarios/s1/) |
+| [1.3.2.S1. User can view paginated land titles data.](/admin/land-titles/list/scenarios/s1/) |
 
 | 1.3.2.F Failed Scenarios |
 | ---- |
-| [1.3.2.F1. Certificate list retrieval fails when user is not authenticated.](/admin/certificates/list/scenarios/f1/) |
+| [1.3.2.F1. Land Title list retrieval fails when user is not authenticated.](/admin/land-titles/list/scenarios/f1/) |
 
-##### 1.3.3. Read Certificate
+##### 1.3.3. Read Land Title
 
 | 1.3.3.S Success Scenarios |
 | ---- |
-| [1.3.3.S1. User can view certificate data.](/admin/certificates/read/scenarios/s1/) |
+| [1.3.3.S1. User can view land title data.](/admin/land-titles/read/scenarios/s1/) |
 
 | 1.3.3.F Failed Scenarios |
 | ---- |
-| [1.3.3.F1. Read certificate fails when user is not authenticated.](/admin/certificates/read/scenarios/f1/) |
+| [1.3.3.F1. Read land title fails when user is not authenticated.](/admin/land-titles/read/scenarios/f1/) |
 
-##### 1.3.4. Update Certificate
+##### 1.3.4. Update Land Title
 
 | 1.3.4.S Success Scenarios |
 | ---- |
-| [1.3.4.S1. User can update certificate successfully.](/admin/certificates/update/scenarios/s1/) |
+| [1.3.4.S1. User can update land title successfully.](/admin/land-titles/update/scenarios/s1/) |
 
 | 1.3.4.F Failed Scenarios |
 | ---- |
-| [1.3.4.F1. Update certificate fails when user is not authenticated.](/admin/certificates/update/scenarios/f1/) |
-| [1.3.4.F2. Update certificate fails when required fields are empty.](/admin/certificates/update/scenarios/f2/) |
+| [1.3.4.F1. Update land title fails when user is not authenticated.](/admin/land-titles/update/scenarios/f1/) |
+| [1.3.4.F2. Update land title fails when required fields are empty.](/admin/land-titles/update/scenarios/f2/) |
 
-##### 1.3.5. Delete Certificate
+##### 1.3.5. Delete Land Title
 
 | 1.3.5.S Success Scenarios |
 | ---- |
-| [1.3.5.S1. User can delete certificate successfully.](/admin/certificates/delete/scenarios/s1/) |
+| [1.3.5.S1. User can delete land title successfully.](/admin/land-titles/delete/scenarios/s1/) |
 
 | 1.3.5.F Failed Scenarios |
 | ---- |
-| [1.3.5.F1. Delete certificate fails when user is not authenticated.](/admin/certificates/delete/scenarios/f1/) |
+| [1.3.5.F1. Delete land title fails when user is not authenticated.](/admin/land-titles/delete/scenarios/f1/) |
 
 #### 1.4. Facilities
 
