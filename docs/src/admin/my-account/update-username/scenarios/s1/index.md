@@ -6,29 +6,34 @@ aside: false
 
 ## 1.2.1.F1. Username update fails when user is not authenticated.
 
-![alt text](./home.webp){.shadow-img}
+- `GIVEN` user already logged in
+- `AND` user visit home
+- `WHEN` user click top right menu button
 
-- `GIVEN` user visit `/signin`
-- `WHEN` user type "admin" into input "username"
-- `AND` user type "Admin123!" into input "password"
-- `AND` user click button "sign-in"
-- `THEN` user redirected to home page
+![alt text](./menu.jpg){.shadow-img}
 
-![alt text](./signin-page.png){.shadow-img}
+- `THEN` user sees the popup menu
+- `WHEN` user click my account button
 
-- `WHEN` user click account menu in top-right corner
-- `AND` user click button "my-account"
-- `THEN` system show popup "account-menu"
+![alt text](./pop-menu.jpg){.shadow-img}
 
-![alt text](./account-menu.png){.shadow-img}
+- `THEN` user redirected to account page
+- `WHEN` user click username button
 
-- `WHEN` user click button
+![alt text](./username-button.jpg){.shadow-img}
 
-![alt text](./my-account-page.png){.shadow-img}
+- `THEN` user redirected to update username page
 
-- `WHEN` user type "admin" into input "username"
-- `AND` user click button "save"
+![alt text](./username-s1-1.jpg){.shadow-img}
 
-![alt text](./fill-form.png){.shadow-img}
+- `WHEN` user changes username input from "admin" to "johndoe"
 
-- `THEN` user see "Authentication credentials is invalid".
+![alt text](./username-s1-2.jpg){.shadow-img}
+
+- `WHEN` user click save button
+
+![alt text](./username-s1-3.jpg){.shadow-img}
+
+- `THEN` user sees success notification "Update success"
+
+![alt text](./username-s1-4.jpg){.shadow-img}
