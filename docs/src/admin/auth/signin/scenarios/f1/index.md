@@ -8,7 +8,7 @@ aside: false
 
 - `GIVEN` user visit `/signin`
 
-![alt text](./signin-page.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/signin-page.png){.shadow-img}
 
 - `WHEN` user type "admin" into input "username"
 - `AND` user type "12345678" into input "password"

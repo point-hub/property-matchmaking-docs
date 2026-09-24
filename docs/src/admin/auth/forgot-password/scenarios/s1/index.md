@@ -9,7 +9,7 @@ aside: false
 - `GIVEN` user visit `/signin`
 - `WHEN` user click button "forgot-password"
 
-![alt text](./signin-page.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/signin-page.png){.shadow-img}
 
 - `WHEN` user type "admin@example.com" into input "email"
 - `AND` user click button "request-reset-password"

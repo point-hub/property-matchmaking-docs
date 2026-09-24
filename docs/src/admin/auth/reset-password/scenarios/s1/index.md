@@ -17,4 +17,4 @@ aside: false
 - `THEN` user see "Reset Password Success".
 - `AND` user redirected to signin page.
 
-![alt text](./signin-page.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/signin-page.png){.shadow-img}

@@ -9,4 +9,4 @@ aside: false
 - `GIVEN` user visit `/admin/my-account/update-username` url without signin
 - `THEN` user redirected to page signin
 
-![alt text](./signin-page.png){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/signin-page.png){.shadow-img}
