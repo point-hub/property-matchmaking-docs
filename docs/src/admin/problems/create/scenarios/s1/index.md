@@ -2,9 +2,9 @@
 aside: false
 ---
 
-# Scenario 1.3.1. Create Problem
+# Scenario 1.5.1. Create Problem
 
-## 1.3.1.S1. User can create problem successfully.
+## 1.5.1.S1. User can create problem successfully.
 
 - `GIVEN` user already logged in
 - `AND` user visit home page

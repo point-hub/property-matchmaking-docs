@@ -2,9 +2,9 @@
 aside: false
 ---
 
-# Scenario 1.3.4. Update Problem
+# Scenario 1.5.4. Update Problem
 
-## 1.3.4.F2. Update problem fails when required fields are empty.
+## 1.5.4.F2. Update problem fails when required fields are empty.
 
 - `GIVEN` user already logged in
 - `AND` user visit home page

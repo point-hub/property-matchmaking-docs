@@ -2,9 +2,9 @@
 aside: false
 ---
 
-# Scenario 1.3.4. Update Promo
+# Scenario 1.6.4. Update Promo
 
-## 1.3.4.F2. Update promo fails when required fields are empty.
+## 1.6.4.F2. Update promo fails when required fields are empty.
 
 - `GIVEN` user already logged in
 - `AND` user visit home page

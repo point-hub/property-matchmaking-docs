@@ -2,9 +2,9 @@
 aside: false
 ---
 
-# Scenario 1.3.5. Delete Promo
+# Scenario 1.6.5. Delete Promo
 
-## 1.3.5.F1. Delete promo fails when user is not authenticated.
+## 1.6.5.F1. Delete promo fails when user is not authenticated.
 
 - `GIVEN` user visit `/admin/promos/1` url without signin
 - `THEN` user redirected to page signin

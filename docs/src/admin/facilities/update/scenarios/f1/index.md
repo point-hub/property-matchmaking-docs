@@ -2,9 +2,9 @@
 aside: false
 ---
 
-# Scenario 1.3.4. Update Facility
+# Scenario 1.4.4. Update Facility
 
-## 1.3.4.F1. Update facility fails when user is not authenticated.
+## 1.4.4.F1. Update facility fails when user is not authenticated.
 
 - `GIVEN` user visit `/admin/facilities/1` url without signin
 - `THEN` user redirected to page signin

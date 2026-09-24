@@ -2,9 +2,9 @@
 aside: false
 ---
 
-# Scenario 1.3.1. Create Promo
+# Scenario 1.6.1. Create Promo
 
-## 1.3.1.S1. User can create promo successfully.
+## 1.6.1.S1. User can create promo successfully.
 
 - `GIVEN` user already logged in
 - `AND` user visit home page

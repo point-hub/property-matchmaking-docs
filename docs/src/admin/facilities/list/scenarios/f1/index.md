@@ -2,9 +2,9 @@
 aside: false
 ---
 
-# Scenario 1.3.2. List Facilities
+# Scenario 1.4.2. List Facilities
 
-## 1.3.2.F1. Facility list retrieval fails when user is not authenticated.
+## 1.4.2.F1. Facility list retrieval fails when user is not authenticated.
 
 - `GIVEN` user visit `/admin/facilities` url without signin
 - `THEN` user redirected to page signin

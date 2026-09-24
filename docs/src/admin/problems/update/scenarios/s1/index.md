@@ -2,9 +2,9 @@
 aside: false
 ---
 
-# Scenario 1.3.4. Update Problem
+# Scenario 1.5.4. Update Problem
 
-## 1.3.4.S1. User can update problem successfully.
+## 1.5.4.S1. User can update problem successfully.
 
 - `GIVEN` user already logged in
 - `AND` user visit home page

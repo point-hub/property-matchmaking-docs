@@ -2,9 +2,9 @@
 aside: false
 ---
 
-# Scenario 1.3.2. List Facilities
+# Scenario 1.4.2. List Facilities
 
-## 1.3.2.S1. User can view paginated facilities data.
+## 1.4.2.S1. User can view paginated facilities data.
 
 - `GIVEN` user already logged in
 - `AND` user visit home page

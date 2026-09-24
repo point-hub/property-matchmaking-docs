@@ -2,9 +2,9 @@
 aside: false
 ---
 
-# Scenario 1.3.1. Create Facility
+# Scenario 1.4.1. Create Facility
 
-## 1.3.1.F2. User can create facility successfully.
+## 1.4.1.F2. User can create facility successfully.
 
 - `GIVEN` user already logged in
 - `AND` user visit home page

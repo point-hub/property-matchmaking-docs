@@ -2,9 +2,9 @@
 aside: false
 ---
 
-# Scenario 1.3.2. List Problems
+# Scenario 1.5.2. List Problems
 
-## 1.3.2.S1. User can view paginated problems data.
+## 1.5.2.S1. User can view paginated problems data.
 
 - `GIVEN` user already logged in
 - `AND` user visit home page

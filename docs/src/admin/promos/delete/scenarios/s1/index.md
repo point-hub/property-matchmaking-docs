@@ -2,9 +2,9 @@
 aside: false
 ---
 
-# Scenario 1.3.5. Delete Promo
+# Scenario 1.6.5. Delete Promo
 
-## 1.3.5.S1. User can delete promo successfully.
+## 1.6.5.S1. User can delete promo successfully.
 
 - `GIVEN` user already logged in
 - `AND` user visit home page

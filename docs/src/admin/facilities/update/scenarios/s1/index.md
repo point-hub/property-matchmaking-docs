@@ -2,9 +2,9 @@
 aside: false
 ---
 
-# Scenario 1.3.4. Update Facility
+# Scenario 1.4.4. Update Facility
 
-## 1.3.4.S1. User can update facility successfully.
+## 1.4.4.S1. User can update facility successfully.
 
 - `GIVEN` user already logged in
 - `AND` user visit home page

@@ -2,9 +2,9 @@
 aside: false
 ---
 
-# Scenario 1.3.5. Delete Facility
+# Scenario 1.4.5. Delete Facility
 
-## 1.3.5.S1. User can delete facility successfully.
+## 1.4.5.S1. User can delete facility successfully.
 
 - `GIVEN` user already logged in
 - `AND` user visit home page

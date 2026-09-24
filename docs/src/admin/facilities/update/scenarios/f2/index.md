@@ -2,9 +2,9 @@
 aside: false
 ---
 
-# Scenario 1.3.4. Update Facility
+# Scenario 1.4.4. Update Facility
 
-## 1.3.4.F2. Update facility fails when required fields are empty.
+## 1.4.4.F2. Update facility fails when required fields are empty.
 
 - `GIVEN` user already logged in
 - `AND` user visit home page

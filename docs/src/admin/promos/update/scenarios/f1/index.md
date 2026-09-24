@@ -2,9 +2,9 @@
 aside: false
 ---
 
-# Scenario 1.3.4. Update Promo
+# Scenario 1.6.4. Update Promo
 
-## 1.3.4.F1. Update promo fails when user is not authenticated.
+## 1.6.4.F1. Update promo fails when user is not authenticated.
 
 - `GIVEN` user visit `/admin/promos/1` url without signin
 - `THEN` user redirected to page signin

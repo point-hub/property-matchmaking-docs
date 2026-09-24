@@ -2,9 +2,9 @@
 aside: false
 ---
 
-# Scenario 1.3.5. Delete Problem
+# Scenario 1.5.5. Delete Problem
 
-## 1.3.5.S1. User can delete problem successfully.
+## 1.5.5.S1. User can delete problem successfully.
 
 - `GIVEN` user already logged in
 - `AND` user visit home page

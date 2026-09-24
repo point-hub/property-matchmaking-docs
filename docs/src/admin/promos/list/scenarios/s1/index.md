@@ -2,9 +2,9 @@
 aside: false
 ---
 
-# Scenario 1.3.2. List Promos
+# Scenario 1.6.2. List Promos
 
-## 1.3.2.S1. User can view paginated promos data.
+## 1.6.2.S1. User can view paginated promos data.
 
 - `GIVEN` user already logged in
 - `AND` user visit home page

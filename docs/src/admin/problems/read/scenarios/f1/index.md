@@ -2,9 +2,9 @@
 aside: false
 ---
 
-# Scenario 1.3.3. Read Problem
+# Scenario 1.5.3. Read Problem
 
-## 1.3.3.F1. Read problem fails when user is not authenticated.
+## 1.5.3.F1. Read problem fails when user is not authenticated.
 
 - `GIVEN` user visit `/admin/problems/1` url without signin
 - `THEN` user redirected to page signin

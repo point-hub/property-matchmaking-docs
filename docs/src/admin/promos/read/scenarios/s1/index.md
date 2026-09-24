@@ -2,9 +2,9 @@
 aside: false
 ---
 
-# Scenario 1.3.3. Read Promo
+# Scenario 1.6.3. Read Promo
 
-## 1.3.3.S1. User can view promo data.
+## 1.6.3.S1. User can view promo data.
 
 - `GIVEN` user already logged in
 - `AND` user visit home page

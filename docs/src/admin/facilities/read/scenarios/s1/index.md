@@ -2,9 +2,9 @@
 aside: false
 ---
 
-# Scenario 1.3.3. Read Facility
+# Scenario 1.4.3. Read Facility
 
-## 1.3.3.S1. User can view facility data.
+## 1.4.3.S1. User can view facility data.
 
 - `GIVEN` user already logged in
 - `AND` user visit home page

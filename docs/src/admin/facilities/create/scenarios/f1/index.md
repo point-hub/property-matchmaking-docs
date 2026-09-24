@@ -2,9 +2,9 @@
 aside: false
 ---
 
-# Scenario 1.3.1. Create Facility
+# Scenario 1.4.1. Create Facility
 
-## 1.3.1.F1. Create facility fails when user is not authenticated.
+## 1.4.1.F1. Create facility fails when user is not authenticated.
 
 - `GIVEN` user visit `/admin/facilities/create` url without signin
 - `THEN` user redirected to page signin

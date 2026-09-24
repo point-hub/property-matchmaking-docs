@@ -2,9 +2,9 @@
 aside: false
 ---
 
-# Scenario 1.3.3. Read Problem
+# Scenario 1.5.3. Read Problem
 
-## 1.3.3.S1. User can view problem data.
+## 1.5.3.S1. User can view problem data.
 
 - `GIVEN` user already logged in
 - `AND` user visit home page
