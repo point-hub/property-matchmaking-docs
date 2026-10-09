@@ -21,7 +21,7 @@ aside: false
 
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/land-titles/create/s1/create-form.jpg){.shadow-img}
 
-- `WHEN` user enters "SHM" in the name field
+- `WHEN` user enters "Land Title 1" in the name field
 
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/land-titles/create/s1/form.jpg){.shadow-img}
 
@@ -34,6 +34,6 @@ aside: false
 
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/land-titles/create/s1/notification.jpg){.shadow-img}
 
-- `THEN` user view "SHM" in list land titles
+- `THEN` user view "Land Title 1" in list land titles
 
 ![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/land-titles/create/s1/data.jpg){.shadow-img}
