@@ -36,9 +36,10 @@ Using this information, the system evaluates available properties and generates 
 
 The property recommendation score is primarily calculated based on two key factors:
 
-1. **Location Preference.** The system compares the customer's preferred location with each property's location. Properties that closely match the selected location receive a higher score.
-2. **Budget Preference.** The system evaluates whether the property's price fits within the customer's target budget or financing capability. Properties that are closer to the customer's budget receive a higher score.
-3. **Promotion Needs.** The system considers the customer's purchasing challenges, such as limited savings, income constraints, or credit history, to identify properties with promotions or financing programs that best address those needs.
+1. **Location Preference.** The system compares the customer's preferred location with each property's location. Properties that match the selected location receive a the score.
+2. **Budget Preference.** The system evaluates whether the property's price fits within the customer's target budget. Properties that are match to the customer's budget receive a the score.
+
+Other data about the customer's purchasing challenges, such as limited savings, income constraints, or credit history, are used to help our agents recommend properties with suitable promotions or financing programs.
 
 The overall recommendation score is determined by combining these two factors. Properties with the highest scores are ranked first and presented as the most suitable recommendations for the customer.
 
