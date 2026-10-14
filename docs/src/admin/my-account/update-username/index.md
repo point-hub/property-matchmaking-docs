@@ -13,3 +13,6 @@ The username may be displayed in the dashboard, reports, activity logs, or audit
   - [1.2.1.F2. Username update fails when required fields are empty.](/admin/my-account/update-username/scenarios/f2/)
   - [1.2.1.F3. Username update fails when username already exists.](/admin/my-account/update-username/scenarios/f3/)
   
+  ## Test Report
+  
+  [https://majestic-cat-b7b63b.netlify.app/1.2.1/](https://majestic-cat-b7b63b.netlify.app/1.2.1/)

@@ -10,3 +10,6 @@ Allows users to modify the information of an existing problem.
   - [1.5.4.F1. Update problem fails when user is not authenticated.](/admin/problems/update/scenarios/f1/)
   - [1.5.4.F2. Update problem fails when required fields are empty.](/admin/problems/update/scenarios/f2/)
   
+  ## Test Report
+  
+  [https://majestic-cat-b7b63b.netlify.app/1.5.4/](https://majestic-cat-b7b63b.netlify.app/1.5.4/)

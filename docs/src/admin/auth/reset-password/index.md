@@ -12,3 +12,7 @@ This page is accessed through a secure, time-limited reset link sent to the user
   - [1.1.6.F1. Password reset fails when required fields are empty.](/admin/auth/reset-password/scenarios/f1/)
   - [1.1.6.F2. Password reset fails when password is not strong enough.](/admin/auth/reset-password/scenarios/f2/)
   - [1.1.6.F3. Password reset fails when password confirmation does not match.](/admin/auth/reset-password/scenarios/f3/)
+
+  ## Test Report
+  
+  [https://majestic-cat-b7b63b.netlify.app/1.1.6/](https://majestic-cat-b7b63b.netlify.app/1.1.6/)

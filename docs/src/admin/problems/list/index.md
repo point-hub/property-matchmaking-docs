@@ -9,3 +9,6 @@ List Problems	Displays all problems in a searchable and filterable list, allowin
 - **Failure Scenarios**
   - [1.5.2.F1. Problem list retrieval fails when user is not authenticated.](/admin/problems/list/scenarios/f1/)
   
+  ## Test Report
+  
+  [https://majestic-cat-b7b63b.netlify.app/1.5.2/](https://majestic-cat-b7b63b.netlify.app/1.5.2/)

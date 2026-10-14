@@ -10,3 +10,6 @@ Allows users to modify the information of an existing land title.
   - [1.3.4.F1. Update land title fails when user is not authenticated.](/admin/land-titles/update/scenarios/f1/)
   - [1.3.4.F2. Update land title fails when required fields are empty.](/admin/land-titles/update/scenarios/f2/)
   
+  ## Test Report
+  
+  [https://majestic-cat-b7b63b.netlify.app/1.3.4/](https://majestic-cat-b7b63b.netlify.app/1.3.4/)

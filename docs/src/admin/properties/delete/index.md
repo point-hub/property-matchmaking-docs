@@ -9,3 +9,6 @@ Allows users to permanently remove a property that is no longer required or was 
 - **Failure Scenarios**
   - [1.7.5.F1. Delete property fails when user is not authenticated.](/admin/properties/delete/scenarios/f1/)
   
+  ## Test Report
+  
+  [https://majestic-cat-b7b63b.netlify.app/1.7.5/](https://majestic-cat-b7b63b.netlify.app/1.7.5/)

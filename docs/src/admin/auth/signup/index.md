@@ -17,3 +17,6 @@ The signup endpoint is currently hidden because it is intended for internal use 
   - [1.1.1.F4. Sign up fails when password is not strong enough.](/admin/auth/signup/scenarios/f4/)
   - [1.1.1.F5. Sign up fails when password confirmation does not match.](/admin/auth/signup/scenarios/f5/)
   
+  ## Test Report
+  
+  [https://majestic-cat-b7b63b.netlify.app/1.1.1/](https://majestic-cat-b7b63b.netlify.app/1.1.1/)

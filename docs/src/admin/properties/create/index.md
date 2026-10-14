@@ -10,3 +10,6 @@ Allows users to create a new property by entering the required information and s
   - [1.7.1.F1. Create property fails when user is not authenticated.](/admin/properties/create/scenarios/f1/)
   - [1.7.1.F2. Create property fails when required fields are empty.](/admin/properties/create/scenarios/f2/)
   
+  ## Test Report
+  
+  [https://majestic-cat-b7b63b.netlify.app/1.7.1/](https://majestic-cat-b7b63b.netlify.app/1.7.1/)

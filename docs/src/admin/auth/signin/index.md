@@ -8,3 +8,7 @@ The Signin feature allows registered and verified users to securely access the a
   - [1.1.3.S1. User can sign in successfully.](/admin/auth/signin/scenarios/s1/)
 - **Failure Scenarios**
   - [1.1.3.F1. Sign in fails when credentials do not match.](/admin/auth/signin/scenarios/f1/)
+
+  ## Test Report
+  
+  [https://majestic-cat-b7b63b.netlify.app/1.1.3/](https://majestic-cat-b7b63b.netlify.app/1.1.3/)

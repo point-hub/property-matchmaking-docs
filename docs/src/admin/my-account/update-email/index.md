@@ -10,4 +10,8 @@ The Update Email page allows users to change their registered email address. Sin
   - [1.2.2.F1. Email update fails when user is not authenticated.](/admin/my-account/update-email/scenarios/f1/)
   - [1.2.2.F2. Email update fails when required fields are empty.](/admin/my-account/update-email/scenarios/f2/)
   - [1.2.2.F3. Email update fails when email already exists.](/admin/my-account/update-email/scenarios/f3/)
+
+  ## Test Report
+  
+  [https://majestic-cat-b7b63b.netlify.app/1.2.2/](https://majestic-cat-b7b63b.netlify.app/1.2.2/)
   

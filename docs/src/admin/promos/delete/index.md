@@ -9,3 +9,6 @@ Allows users to permanently remove a promo that is no longer required or was cre
 - **Failure Scenarios**
   - [1.6.5.F1. Delete promo fails when user is not authenticated.](/admin/promos/delete/scenarios/f1/)
   
+  ## Test Report
+  
+  [https://majestic-cat-b7b63b.netlify.app/1.6.5/](https://majestic-cat-b7b63b.netlify.app/1.6.5/)

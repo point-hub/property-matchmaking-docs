@@ -6,3 +6,7 @@ The Signout feature allows users to securely log out of the application. It ends
 
 - **Success Scenarios**
   - [1.1.4.S1. User can sign out successfully.](/admin/auth/signout/scenarios/s1/)
+
+## Test Report
+  
+  [https://majestic-cat-b7b63b.netlify.app/1.1.4/](https://majestic-cat-b7b63b.netlify.app/1.1.4/)

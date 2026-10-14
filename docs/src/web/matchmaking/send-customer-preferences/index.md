@@ -13,3 +13,6 @@ This feature allows customers to submit their property preferences, including th
   - [2.1.1.F3. Send preferences fails when the finance budget fields are empty.](/web/matchmaking/send-customer-preferences/scenarios/f3/)
   - [2.1.1.F4. Send preferences fails when the contact information fields are empty.](/web/matchmaking/send-customer-preferences/scenarios/f4/)
   
+  ## Test Report
+  
+  [https://majestic-cat-b7b63b.netlify.app/2.1.1/](https://majestic-cat-b7b63b.netlify.app/2.1.1/)

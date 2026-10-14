@@ -11,3 +11,6 @@ List Properties	Displays all properties in a searchable and filterable list, all
 - **Failure Scenarios**
   - [1.7.2.F1. Property list retrieval fails when user is not authenticated.](/admin/properties/list/scenarios/f1/)
   
+  ## Test Report
+  
+  [https://majestic-cat-b7b63b.netlify.app/1.7.2/](https://majestic-cat-b7b63b.netlify.app/1.7.2/)

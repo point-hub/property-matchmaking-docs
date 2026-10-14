@@ -9,3 +9,6 @@ List Land Titles	Displays all land titles in a searchable and filterable list, a
 - **Failure Scenarios**
   - [1.3.2.F1. Land Title list retrieval fails when user is not authenticated.](/admin/land-titles/list/scenarios/f1/)
   
+  ## Test Report
+  
+  [https://majestic-cat-b7b63b.netlify.app/1.3.2/](https://majestic-cat-b7b63b.netlify.app/1.3.2/)

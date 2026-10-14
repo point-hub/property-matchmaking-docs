@@ -10,3 +10,6 @@ Allows users to modify the information of an existing facility.
   - [1.4.4.F1. Update facility fails when user is not authenticated.](/admin/facilities/update/scenarios/f1/)
   - [1.4.4.F2. Update facility fails when required fields are empty.](/admin/facilities/update/scenarios/f2/)
   
+  ## Test Report
+  
+  [https://majestic-cat-b7b63b.netlify.app/1.4.4/](https://majestic-cat-b7b63b.netlify.app/1.4.4/)

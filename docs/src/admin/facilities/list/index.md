@@ -9,3 +9,6 @@ List Facilities	Displays all facilities in a searchable and filterable list, all
 - **Failure Scenarios**
   - [1.4.2.F1. Facility list retrieval fails when user is not authenticated.](/admin/facilities/list/scenarios/f1/)
   
+  ## Test Report
+  
+  [https://majestic-cat-b7b63b.netlify.app/1.4.2/](https://majestic-cat-b7b63b.netlify.app/1.4.2/)

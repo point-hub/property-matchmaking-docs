@@ -10,3 +10,6 @@ Allows users to create a new land title by entering the required information and
   - [1.3.1.F1. Create land title fails when user is not authenticated.](/admin/land-titles/create/scenarios/f1/)
   - [1.3.1.F2. Create land title fails when required fields are empty.](/admin/land-titles/create/scenarios/f2/)
   
+  ## Test Report
+  
+  [https://majestic-cat-b7b63b.netlify.app/1.3.1/](https://majestic-cat-b7b63b.netlify.app/1.3.1/)

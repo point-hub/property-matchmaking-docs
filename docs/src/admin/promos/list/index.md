@@ -9,3 +9,6 @@ List Promos	Displays all promos in a searchable and filterable list, allowing us
 - **Failure Scenarios**
   - [1.6.2.F1. Promo list retrieval fails when user is not authenticated.](/admin/promos/list/scenarios/f1/)
   
+  ## Test Report
+  
+  [https://majestic-cat-b7b63b.netlify.app/1.6.2/](https://majestic-cat-b7b63b.netlify.app/1.6.2/)

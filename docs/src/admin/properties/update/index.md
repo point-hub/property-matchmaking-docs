@@ -11,3 +11,6 @@ Allows users to modify the information of an existing property.
   - [1.7.4.F1. Update property fails when user is not authenticated.](/admin/properties/update/scenarios/f1/)
   - [1.7.4.F2. Update property fails when required fields are empty.](/admin/properties/update/scenarios/f2/)
   
+  ## Test Report
+  
+  [https://majestic-cat-b7b63b.netlify.app/1.7.4/](https://majestic-cat-b7b63b.netlify.app/1.7.4/)

@@ -9,3 +9,7 @@ The Forgot Password feature allows users to request a password reset if they can
 - **Failure Scenarios**
   - [1.1.5.F1. Password reset request fails when required fields are empty.](/admin/auth/forgot-password/scenarios/f1/)
   - [1.1.5.F2. Password reset request fails when email is not found.](/admin/auth/forgot-password/scenarios/f2/)
+
+  ## Test Report
+  
+  [https://majestic-cat-b7b63b.netlify.app/1.1.5/](https://majestic-cat-b7b63b.netlify.app/1.1.5/)

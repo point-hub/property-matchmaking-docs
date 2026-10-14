@@ -10,3 +10,6 @@ Allows users to create a new promo by entering the required information and supp
   - [1.6.1.F1. Create promo fails when user is not authenticated.](/admin/promos/create/scenarios/f1/)
   - [1.6.1.F2. Create promo fails when required fields are empty.](/admin/promos/create/scenarios/f2/)
   
+  ## Test Report
+  
+  [https://majestic-cat-b7b63b.netlify.app/1.6.1/](https://majestic-cat-b7b63b.netlify.app/1.6.1/)

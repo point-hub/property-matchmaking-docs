@@ -13,3 +13,7 @@ Unlike Reset Password, this feature is used when the user still remembers their 
   - [1.2.3.F2. Password update fails when required fields are empty.](/admin/my-account/update-password/scenarios/f2/)
   - [1.2.3.F3. Password update fails when password is not strong enough.](/admin/my-account/update-password/scenarios/f3/)
   - [1.2.3.F4. Password update fails when password confirmation does not match.](/admin/my-account/update-password/scenarios/f4/)
+
+  ## Test Report
+  
+  [https://majestic-cat-b7b63b.netlify.app/1.2.3/](https://majestic-cat-b7b63b.netlify.app/1.2.3/)
