@@ -32,11 +32,11 @@ aside: false
 - `AND` user enters "64" in the building area field
 - `AND` user enters "200,000,000" in the price field
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/properties/create/s1/form-2-add-button.jpg){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/properties/create/s1/form-2.jpg){.shadow-img}
 
 - `WHEN` user click add button
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/properties/create/s1/form-2.jpg){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/properties/create/s1/form-2-add-button.jpg){.shadow-img}
 
 - `THEN` user see "32 m2" in the land area column table
 - `AND` user see "64" in the building area field
