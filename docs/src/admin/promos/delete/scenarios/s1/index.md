@@ -29,7 +29,7 @@ aside: false
 
 - `THEN` user does not see "Promo 1" in the table
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/promos/delete/s1/data.jpg){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/promos/delete/s1/list-after.jpg){.shadow-img}
 
 - `THEN` user see "Showing 1 to 10 of 14 entries" in the table
 
