@@ -28,10 +28,8 @@ aside: false
 - `AND` user see error message "The subdistrict field is required."
 - `AND` user see error message "The district field is required."
 - `AND` user see error message "The city field is required."
-- `AND` user see error message "The land area field is required."
-- `AND` user see error message "The building area field is required."
-- `AND` user see error message "The price field is required."
+- `AND` user see error message "The pricelists field is required."
 - `AND` user see error message "The developer name field is required."
 - `AND` user see error message "The whatsapp field is required."
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/properties/create/f2/error.jpg){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/properties/create/f2/errors.jpg){.shadow-img}
