@@ -504,7 +504,7 @@ June 2026
 | 1.7.4.S Success Scenarios |
 | ---- |
 | [1.7.4.S1. User can update property successfully.](/admin/properties/update/scenarios/s1/) |
-| [1.7.4.S1. User can update property status successfully.](/admin/properties/update/scenarios/s1/) |
+| [1.7.4.S2. User can update property status successfully.](/admin/properties/update/scenarios/s2/) |
 
 | 1.7.4.F Failed Scenarios |
 | ---- |
