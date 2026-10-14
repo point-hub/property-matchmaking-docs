@@ -16,7 +16,7 @@ aside: false
 - `AND` user can see list of promos
 - `WHEN` user click "A001" data
 
-![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/properties/read/s1/list.jpg){.shadow-img}
+![alt text](https://property-matchmaking-docs.r2.lab.biz.id/admin/properties/delete/s1/list.jpg){.shadow-img}
 
 - `THEN` user redirected to page "properties details"
 - `WHEN` user click delete button

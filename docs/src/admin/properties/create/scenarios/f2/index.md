@@ -6,7 +6,6 @@ aside: false
 
 ## 1.7.1.F2. Create property fails when required fields are empty.
 
-
 - `GIVEN` user already logged in
 - `AND` user visit home page
 - `WHEN` user click menu "properties"
