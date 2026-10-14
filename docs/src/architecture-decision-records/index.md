@@ -12,3 +12,4 @@ This section documents the brainstorming ideas and key decisions made.
 | [ADR#004](/architecture-decision-records/004/index.md) | Choose the most suitable domain for the customer-facing web application? |
 | [ADR#005](/architecture-decision-records/005/index.md) | Rename Certificates to Land Titles to accurately represent SHM (Sertifikat Hak Milik) and HGB (Hak Guna Bangunan), which are land titles rather than generic certificates. |
 | [ADR#006](/architecture-decision-records/006/index.md) | Rename the "Contact via WhatsApp" call-to-action to "Dapatkan hasil rekomendasi". |
+| [ADR#007](/architecture-decision-records/007/index.md) | Managing custom property data for land titles, facilities, and promos. |
