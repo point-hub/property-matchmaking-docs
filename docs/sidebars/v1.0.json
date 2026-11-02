@@ -1,0 +1,136 @@
+
+[
+  {
+    "text": "Documentation",
+    "items": [
+      { "text": "Introduction", "link": "/v1.0/" },
+      { "text": "Sitemap", "link": "/v1.0/sitemap" }
+    ]
+  },
+  {
+    "text": "Admin Features",
+    "items": [
+      {
+        "text": "About",
+        "link": "/v1.0/admin/about/"
+      },
+      {
+        "text": "Auth",
+        "collapsed": true,
+        "items": [
+          { "text": "About", "link": "/v1.0/admin/auth/about/" },
+          { "text": "Schema", "link": "/v1.0/admin/auth/schema/" },
+          { "text": "Signup", "link": "/v1.0/admin/auth/signup/" },
+          { "text": "Verify Email", "link": "/v1.0/admin/auth/verify-email/" },
+          { "text": "Signin", "link": "/v1.0/admin/auth/signin/" },
+          { "text": "Signout", "link": "/v1.0/admin/auth/signout/" },
+          { "text": "Forgot Password", "link": "/v1.0/admin/auth/forgot-password/" },
+          { "text": "Reset Password", "link": "/v1.0/admin/auth/reset-password/" }
+        ]
+      },
+      {
+        "text": "My Account",
+        "collapsed": true,
+        "items": [
+          { "text": "About", "link": "/v1.0/admin/my-account/about/" },
+          { "text": "Schema", "link": "/v1.0/admin/my-account/schema/" },
+          { "text": "Update Username", "link": "/v1.0/admin/my-account/update-username/" },
+          { "text": "Update Email", "link": "/v1.0/admin/my-account/update-email/" },
+          { "text": "Update Password", "link": "/v1.0/admin/my-account/update-password/" }
+        ]
+      },
+      {
+        "text": "Land Titles",
+        "collapsed": true,
+        "items": [
+          { "text": "About", "link": "/v1.0/admin/land-titles/about/" },
+          { "text": "Schema", "link": "/v1.0/admin/land-titles/schema/" },
+          { "text": "Create", "link": "/v1.0/admin/land-titles/create/" },
+          { "text": "List", "link": "/v1.0/admin/land-titles/list/" },
+          { "text": "Read", "link": "/v1.0/admin/land-titles/read/" },
+          { "text": "Update", "link": "/v1.0/admin/land-titles/update/" },
+          { "text": "Delete", "link": "/v1.0/admin/land-titles/delete/" }
+        ]
+      },
+      {
+        "text": "Facilities",
+        "collapsed": true,
+        "items": [
+          { "text": "About", "link": "/v1.0/admin/facilities/about/" },
+          { "text": "Schema", "link": "/v1.0/admin/facilities/schema/" },
+          { "text": "Create", "link": "/v1.0/admin/facilities/create/" },
+          { "text": "List", "link": "/v1.0/admin/facilities/list/" },
+          { "text": "Read", "link": "/v1.0/admin/facilities/read/" },
+          { "text": "Update", "link": "/v1.0/admin/facilities/update/" },
+          { "text": "Delete", "link": "/v1.0/admin/facilities/delete/" }
+        ]
+      },
+      {
+        "text": "Problems",
+        "collapsed": true,
+        "items": [
+          { "text": "About", "link": "/v1.0/admin/problems/about/" },
+          { "text": "Schema", "link": "/v1.0/admin/problems/schema/" },
+          { "text": "Create", "link": "/v1.0/admin/problems/create/" },
+          { "text": "List", "link": "/v1.0/admin/problems/list/" },
+          { "text": "Read", "link": "/v1.0/admin/problems/read/" },
+          { "text": "Update", "link": "/v1.0/admin/problems/update/" },
+          { "text": "Delete", "link": "/v1.0/admin/problems/delete/" }
+        ]
+      },
+      {
+        "text": "Promos",
+        "collapsed": true,
+        "items": [
+          { "text": "About", "link": "/v1.0/admin/promos/about/" },
+          { "text": "Schema", "link": "/v1.0/admin/promos/schema/" },
+          { "text": "Create", "link": "/v1.0/admin/promos/create/" },
+          { "text": "List", "link": "/v1.0/admin/promos/list/" },
+          { "text": "Read", "link": "/v1.0/admin/promos/read/" },
+          { "text": "Update", "link": "/v1.0/admin/promos/update/" },
+          { "text": "Delete", "link": "/v1.0/admin/promos/delete/" }
+        ]
+      },
+      {
+        "text": "Properties",
+        "collapsed": true,
+        "items": [
+          { "text": "About", "link": "/v1.0/admin/properties/about/" },
+          { "text": "Schema", "link": "/v1.0/admin/properties/schema/" },
+          { "text": "Create", "link": "/v1.0/admin/properties/create/" },
+          { "text": "List", "link": "/v1.0/admin/properties/list/" },
+          { "text": "Read", "link": "/v1.0/admin/properties/read/" },
+          { "text": "Update", "link": "/v1.0/admin/properties/update/" },
+          { "text": "Delete", "link": "/v1.0/admin/properties/delete/" }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Web Features",
+    "items": [
+      {
+        "text": "About",
+        "link": "/v1.0/web/about/"
+      },
+      {
+        "text": "Matchmaking",
+        "collapsed": true,
+        "items": [
+          { "text": "About", "link": "/v1.0/web/matchmaking/about/" },
+          { "text": "Schema", "link": "/v1.0/web/matchmaking/schema/" },
+          { "text": "Send Customer Preferences", "link": "/v1.0/web/matchmaking/send-customer-preferences/" },
+          { "text": "Receive Property Recommendations", "link": "/v1.0/web/matchmaking/receive-property-recommendations/" }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Resources",
+    "items": [
+      { "text": "Architecture Decision Records", "link": "/v1.0/architecture-decision-records/" },
+      { "text": "Development Plan", "link": "/v1.0/development-plan/" },
+      { "text": "Developer Resources", "link": "/v1.0/developer-resources/" }
+    ]
+  }
+]

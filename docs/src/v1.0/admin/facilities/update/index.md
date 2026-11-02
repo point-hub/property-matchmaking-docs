@@ -1,0 +1,15 @@
+# Update Facility
+
+Allows users to modify the information of an existing facility.
+
+## Scenarios
+
+- **Success Scenarios**
+  - [1.4.4.S1. User can update facility successfully.](./scenarios/s1/)
+- **Failure Scenarios**
+  - [1.4.4.F1. Update facility fails when user is not authenticated.](./scenarios/f1/)
+  - [1.4.4.F2. Update facility fails when required fields are empty.](./scenarios/f2/)
+  
+  ## Test Report
+  
+  [https://majestic-cat-b7b63b.netlify.app/1.4.4/](https://majestic-cat-b7b63b.netlify.app/1.4.4/)

@@ -1,0 +1,13 @@
+# Promos
+
+Manage available promotions of the properties on the platform. Administrators can create, view, update, and delete promo records to ensure that each property has complete and accurate ownership documentation.
+
+## Features
+
+| Feature | Description |
+| ------- | ----------- |
+| [Create Promo](./create/) | Allows users to create a new promo. |
+| [List Promos](./list/) | Displays all available promo listings with filtering and sorting options. |
+| [Read Promo](./read/) | Displays detailed information about a specific promo. |
+| [Update Promo](./update/) | Allows users to modify an existing promo listing. |
+| [Delete Promo](./delete/) | Allows users to permanently remove a promo listing. |

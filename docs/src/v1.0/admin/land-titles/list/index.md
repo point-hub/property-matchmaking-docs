@@ -1,0 +1,14 @@
+# List Land Titles
+
+List Land Titles	Displays all land titles in a searchable and filterable list, allowing users to quickly locate and manage land title records.
+
+## Scenarios
+
+- **Success Scenarios**
+  - [1.3.2.S1. User can view paginated land titles data.](./scenarios/s1/)
+- **Failure Scenarios**
+  - [1.3.2.F1. Land Title list retrieval fails when user is not authenticated.](./scenarios/f1/)
+  
+  ## Test Report
+  
+  [https://majestic-cat-b7b63b.netlify.app/1.3.2/](https://majestic-cat-b7b63b.netlify.app/1.3.2/)

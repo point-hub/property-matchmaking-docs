@@ -1,0 +1,14 @@
+# List Problems
+
+List Problems	Displays all problems in a searchable and filterable list, allowing users to quickly locate and manage problem records.
+
+## Scenarios
+
+- **Success Scenarios**
+  - [1.5.2.S1. User can view paginated problems data.](./scenarios/s1/)
+- **Failure Scenarios**
+  - [1.5.2.F1. Problem list retrieval fails when user is not authenticated.](./scenarios/f1/)
+  
+  ## Test Report
+  
+  [https://majestic-cat-b7b63b.netlify.app/1.5.2/](https://majestic-cat-b7b63b.netlify.app/1.5.2/)

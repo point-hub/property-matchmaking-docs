@@ -22,11 +22,24 @@
   width: auto;
 }
 
-.shadow-img {
+.potrait-img {
+  width: 425px;
+  border: 2px solid black;
   box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
   transition: box-shadow 0.3s ease-in-out; /* Optional: smooth hover effect */
 }
 
-.shadow-img:hover {
+.landscape-img {
+  width: auto;
+  border: 2px solid black;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+  transition: box-shadow 0.3s ease-in-out; /* Optional: smooth hover effect */
+}
+
+.potrait-img:hover {
+  box-shadow: 0 6px 6px rgba(0, 0, 0, 0.3);
+}
+
+.landscape-img:hover {
   box-shadow: 0 6px 6px rgba(0, 0, 0, 0.3);
 }

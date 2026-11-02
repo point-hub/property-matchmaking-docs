@@ -1,0 +1,15 @@
+# Update Land Title
+
+Allows users to modify the information of an existing land title.
+
+## Scenarios
+
+- **Success Scenarios**
+  - [1.3.4.S1. User can update land title successfully.](./scenarios/s1/)
+- **Failure Scenarios**
+  - [1.3.4.F1. Update land title fails when user is not authenticated.](./scenarios/f1/)
+  - [1.3.4.F2. Update land title fails when required fields are empty.](./scenarios/f2/)
+  
+  ## Test Report
+  
+  [https://majestic-cat-b7b63b.netlify.app/1.3.4/](https://majestic-cat-b7b63b.netlify.app/1.3.4/)
